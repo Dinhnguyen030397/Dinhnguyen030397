@@ -50,7 +50,7 @@
 <h1 align="center">📖 Education 📖</h1>
 <br>
 <p>
-  <a href="https://www.devpro.edu.vn/" target="_blank" style="font-size:22px">
+  <a href="https://drive.google.com/file/d/13d8E7L5UzS2gY0fS5HRk1WKtVfCWQLMy/view?usp=drive_link" target="_blank" style="font-size:22px">
     <strong>📖 DevPro (Web Programing with PHP&MySQL - Laravel Framework) </strong>
   </a>
 </p>
