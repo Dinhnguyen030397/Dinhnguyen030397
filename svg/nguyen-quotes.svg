@@ -23,13 +23,15 @@
 		  
         }
         .quotes-vi {
-          font-size: 20px;
+          font-size: 18px;
 		  font-weight: bold;
+		   color: red;
         }
         .name_nguyen {
           font-size: 16px;
 		  font-style: italic;
-		  color: Black
+		 
+		  margin-left : 100px
         }
 			</style>
 
