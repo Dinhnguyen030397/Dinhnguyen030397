@@ -40,7 +40,7 @@
   <a href="https://www.instagram.com/dinhvan9628/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
   </a>
-  <a href="mailto:Dinhnguyen0303@gmail.com">
+  <a href="https://mail.google.com">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="nguyen-email" />
   </a>
 </div>
