@@ -50,17 +50,17 @@
 <h2 align="center">📖 Education 📖</h2>
 <br>
 <p>
-  <a href="https://www.devpro.edu.vn/" target="_blank">
+  <a href="https://www.devpro.edu.vn/" target="_blank" style="font-size:20px">
     <strong>📖 DevPro (Web Programing with PHP&MySQL - Laravel Framework) </strong>
   </a>
 </p>
 <p>
-  <a href="https://fullstack.edu.vn/" target="_blank">
+  <a href="https://fullstack.edu.vn/" target="_blank" style="font-size:20px">
     <strong>📖 F8 - Fullstack </strong>
   </a>
 </p>
 <p> 
-  <a href="https://unica.vn/learn/2087/overview" target="_blank">
+  <a href="https://unica.vn/learn/2087/overview" target="_blank" style="font-size:20px">
     <strong>📖 Cấu trúc dữ liệu và giải thuật với LeetCode </strong>
   </a>
 </p>
