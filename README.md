@@ -47,11 +47,21 @@
 
 <br>
 
-<h2 align="center">📖 Why did I choose to be a developer? 📖</h2>
+<h2 align="center">📖 Education 📖</h2>
 <br>
 <p>
-  <a href="https://youtu.be/63opfUkPq6k" target="_blank">
-    <strong>☕ </strong>
+  <a href="https://www.devpro.edu.vn/" target="_blank">
+    <strong>📖 DevPro (Web Programing with PHP&MySQL - Laravel Framework) </strong>
+  </a>
+</p>
+<p>
+  <a href="https://fullstack.edu.vn/" target="_blank">
+    <strong>📖 F8 - Fullstack </strong>
+  </a>
+</p>
+<p> 
+  <a href="https://unica.vn/learn/2087/overview" target="_blank">
+    <strong>📖 Cấu trúc dữ liệu và giải thuật với LeetCode </strong>
   </a>
 </p>
 <br>
