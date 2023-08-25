@@ -58,5 +58,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="2.jpg" width="846" height="100%" alt="trungquandev-official" />
+  <img src="2.jpg" width="846" height="100%" alt="nguyennb" />
 </a>
